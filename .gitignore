@@ -1,0 +1,5 @@
+/.vscode
+/build
+/cpp_website/build
+/cpp_website/node_modules
+/cpp_website/package-lock.json
